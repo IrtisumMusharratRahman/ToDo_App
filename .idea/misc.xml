@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/irtisum/Desktop/Mobile apps/todoApp/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.1" />
+        <entry key="..\:/Users/irtisum/Desktop/Mobile apps/todoApp/app/src/main/res/drawable/ic_baseline_edit.xml" value="0.1" />
+        <entry key="..\:/Users/irtisum/Desktop/Mobile apps/todoApp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/irtisum/Desktop/Mobile apps/todoApp/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/irtisum/Desktop/Mobile apps/todoApp/app/src/main/res/layout/new_task.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/irtisum/Desktop/Mobile apps/todoApp/app/src/main/res/layout/task_layout.xml" value="0.358695652173913" />
         <entry key="..\:/Users/rhyth/Desktop/App/ToDo/app/src/main/res/drawable/ic_baseline_add.xml" value="0.3828125" />
         <entry key="..\:/Users/rhyth/Desktop/App/ToDo/app/src/main/res/drawable/ic_baseline_checklist.xml" value="0.3828125" />
         <entry key="..\:/Users/rhyth/Desktop/App/ToDo/app/src/main/res/layout/activity_main.xml" value="0.25" />
